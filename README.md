@@ -10,3 +10,7 @@ ejemplos ejercitables ...
 - [ ] [Example program for the lex and yacc programs](https://www.ibm.com/docs/en/aix/7.1?topic=information-example-program-lex-yacc-programs)
 - [ ] [lexhowto](https://www.csd.uwo.ca/~mmorenom/CS447/Lectures/Lexical.html/node9.html)
 - [ ] [sci calc](https://rajathhd20014.medium.com/scientific-calculator-using-lex-yacc-tools-fb0604e45970)
+
+compilers 101
+
+- [ ] [intro]([https://rajathhd20014.medium.com/scientific-calculator-using-lex-yacc-tools-fb0604e45970](https://www.epaperpress.com/lexandyacc/intro.html))

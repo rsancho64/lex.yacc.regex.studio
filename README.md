@@ -1,5 +1,7 @@
 ## sites
 
+- [ ] [regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+
 goo: lex and yacc simple calculator program
 
 - [ ] video: [compiladores.intro.yacc](https://www.youtube.com/watch?v=UMr9vmxKuc8)
@@ -13,4 +15,4 @@ ejemplos ejercitables ...
 
 compilers 101
 
-- [ ] [intro]([https://rajathhd20014.medium.com/scientific-calculator-using-lex-yacc-tools-fb0604e45970](https://www.epaperpress.com/lexandyacc/intro.html))
+- [ ] [intro]([https://rajathhd20014.medium.com/scientific-calculator-using-lex-yacc-tools-fb0604e45970](https://www.epaperpress.com/lexandyacc/intro.html)
